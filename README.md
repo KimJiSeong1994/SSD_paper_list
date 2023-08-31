@@ -1,1 +1,1 @@
-# DWE_paper_list
+# Dynamic Word Embedding paper list
