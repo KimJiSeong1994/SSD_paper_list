@@ -10,5 +10,4 @@
 * <a href = "https://arxiv.org/pdf/2010.12684v3.pdf"> Dynamic Contextualized Word Embeddings </a> :: <a href = "https://www.notion.so/DCWE-Dynamic-Contextualized-Word-Embeddings-158d3dedd3a94f858b752d8a1e63419d?pvs=4"> [ paper_review ] </a>
 
 ### LLM(Large langage Model) base 
-
 * <a href = 'https://arxiv.org/pdf/2202.02093.pdf'> Temporal Attention for Language Models </a>
