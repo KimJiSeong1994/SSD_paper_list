@@ -1,4 +1,5 @@
 # Semantic Shift Detection(SSD, Dynamic Word Embedding) paper list
+
 ### Survey
 * <a href = 'https://arxiv.org/pdf/2304.01666.pdf'> A survey on contextualised semantic shift detection</a>
 
