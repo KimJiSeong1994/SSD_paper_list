@@ -10,4 +10,4 @@
 * Rudolph, M., & Blei, D. (2017). Dynamic bernoulli embeddings for language evolution. arXiv preprint arXiv:1703.08052. <a href = "https://arxiv.org/pdf/1703.08052.pdf"> [paper] </a>
 * Hofmann, V., Pierrehumbert, J. B., & Schütze, H. (2020). Dynamic contextualized word embeddings. arXiv preprint arXiv:2010.12684. <a href = "https://arxiv.org/pdf/2010.12684v3.pdf"> [paper] </a> :: <a href = "https://www.notion.so/DCWE-Dynamic-Contextualized-Word-Embeddings-158d3dedd3a94f858b752d8a1e63419d?pvs=4"> [ paper_review ] </a>
 
-* Ethayarajh, K. (2019). How contextual are contextualized word representations? Comparing the geometry of BERT, ELMo, and GPT-2 embeddings. arXiv preprint arXiv:1909.00512. <a href : 'https://arxiv.org/pdf/1909.00512.pdf'> [paper] </a>
+* Ethayarajh, K. (2019). How contextual are contextualized word representations? Comparing the geometry of BERT, ELMo, and GPT-2 embeddings. arXiv preprint arXiv:1909.00512. <a href = 'https://arxiv.org/pdf/1909.00512.pdf'> [paper] </a>
