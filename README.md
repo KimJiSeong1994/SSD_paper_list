@@ -2,7 +2,7 @@
 ### Survey
 * Montanelli, S., & Periti, F. (2023). A Survey on Contextualised Semantic Shift Detection. arXiv preprint arXiv:2304.01666. <a href = 'https://arxiv.org/pdf/2304.01666.pdf'> [paper] </a>
 
-### methodology 
+### Methodology 
 * Bamler, R., & Mandt, S. (2017, July). Dynamic word embeddings. In International conference on Machine learning (pp. 380-389). PMLR. <a href = "https://arxiv.org/pdf/1702.08359.pdf"> [paper] </a>
 
 * Rudolph, M., & Blei, D. (2017). Dynamic bernoulli embeddings for language evolution. arXiv preprint arXiv:1703.08052. <a href = "https://arxiv.org/pdf/1703.08052.pdf"> [paper] </a>
@@ -11,7 +11,7 @@
 
 * Ethayarajh, K. (2019). How contextual are contextualized word representations? Comparing the geometry of BERT, ELMo, and GPT-2 embeddings. arXiv preprint arXiv:1909.00512. <a href = 'https://arxiv.org/pdf/1909.00512.pdf'> [paper] </a>
 
-* Di Carlo, V., Bianchi, F., & Palmonari, M. (2019, July). Training temporal word embeddings with a compass. In Proceedings of the AAAI conference on artificial intelligence (Vol. 33, No. 01, pp. 6326-6334). </a href = 'https://arxiv.org/pdf/1906.02376.pdf'> [paper] </a> 
+* Di Carlo, V., Bianchi, F., & Palmonari, M. (2019, July). Training temporal word embeddings with a compass. In Proceedings of the AAAI conference on artificial intelligence (Vol. 33, No. 01, pp. 6326-6334). <a href = 'https://arxiv.org/pdf/1906.02376.pdf'> [paper] </a> 
 
 * Gong, H., Bhat, S., & Viswanath, P. (2020). Enriching word embeddings with temporal and spatial information. arXiv preprint arXiv:2010.00761. <a href = 'https://arxiv.org/pdf/2010.00761.pdf'> [paper] </a>
 * Hofmann, V., Pierrehumbert, J. B., & Schütze, H. (2020). Dynamic contextualized word embeddings. arXiv preprint arXiv:2010.12684. <a href = "https://arxiv.org/pdf/2010.12684v3.pdf"> [paper] </a> :: <a href = "https://www.notion.so/DCWE-Dynamic-Contextualized-Word-Embeddings-158d3dedd3a94f858b752d8a1e63419d?pvs=4"> [ paper_review ] </a>
