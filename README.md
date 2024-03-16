@@ -5,9 +5,9 @@
 ### Methodology 
 * Bamler, R., & Mandt, S. (2017, July). Dynamic word embeddings. In International conference on Machine learning (pp. 380-389). PMLR. <a href = "https://arxiv.org/pdf/1702.08359.pdf"> [paper] </a>
 
-* Rudolph, M., & Blei, D. (2017). Dynamic bernoulli embeddings for language evolution. arXiv preprint arXiv:1703.08052. <a href = "https://arxiv.org/pdf/1703.08052.pdf"> [paper] </a>
-
-* Yao, Z., Sun, Y., Ding, W., Rao, N., & Xiong, H. (2018, February). Dynamic word embeddings for evolving semantic discovery. In Proceedings of the eleventh acm international conference on web search and data mining (pp. 673-681). <a href = "https://arxiv.org/pdf/1703.00607.pdf"> [paper] </a> :: <a href = "https://www.notion.so/DWE-Dynamic-Word-Embeddings-for-Evolving-Semantic-Discovery-b410626aeb164cb99bca338f89991314?pvs=4"> [ paper_review ] </a>
+* Rudolph, M., & Blei, D. (2017). Dynamic bernoulli embeddings for language evolution. arXiv preprint arXiv:1703.08052. <a href = "https://arxiv.org/pdf/1703.08052.pdf"> [paper] </a> <a href = 'https://www.notion.so/DBE-Dynamic-Bernoulli-Embeddings-for-Language-Evolution-48e27632ce054734a9c75f66551c6a58?pvs=4'> [paper_review] </a>
+ 
+* Yao, Z., Sun, Y., Ding, W., Rao, N., & Xiong, H. (2018, February). Dynamic word embeddings for evolving semantic discovery. In Proceedings of the eleventh acm international conference on web search and data mining (pp. 673-681). <a href = "https://arxiv.org/pdf/1703.00607.pdf"> [paper] </a> :: <a href = "https://www.notion.so/DWE-Dynamic-Word-Embeddings-for-Evolving-Semantic-Discovery-b410626aeb164cb99bca338f89991314?pvs=4"> [paper_review] </a>
 
 * Ethayarajh, K. (2019). How contextual are contextualized word representations? Comparing the geometry of BERT, ELMo, and GPT-2 embeddings. arXiv preprint arXiv:1909.00512. <a href = 'https://arxiv.org/pdf/1909.00512.pdf'> [paper] </a>
 
