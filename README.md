@@ -18,3 +18,4 @@
 * Gong, H., Bhat, S., & Viswanath, P. (2020). Enriching word embeddings with temporal and spatial information. arXiv preprint arXiv:2010.00761. <a href = 'https://arxiv.org/pdf/2010.00761.pdf'> [paper] </a>
 * Hofmann, V., Pierrehumbert, J. B., & Schütze, H. (2020). Dynamic contextualized word embeddings. arXiv preprint arXiv:2010.12684. <a href = "https://arxiv.org/pdf/2010.12684v3.pdf"> [paper] </a> :: <a href = "https://www.notion.so/DCWE-Dynamic-Contextualized-Word-Embeddings-158d3dedd3a94f858b752d8a1e63419d?pvs=4"> [ paper_review ] </a>
 
+
