@@ -4,6 +4,7 @@
 
 ### Methodology 
 * Hamilton, W. L., Leskovec, J., & Jurafsky, D. (2016). Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096. <a href = 'https://arxiv.org/pdf/1605.09096.pdf'> [paper] </a>
+
 * Bamler, R., & Mandt, S. (2017, July). Dynamic word embeddings. In International conference on Machine learning (pp. 380-389). PMLR. <a href = "https://arxiv.org/pdf/1702.08359.pdf"> [paper] </a>
 
 * Rudolph, M., & Blei, D. (2017). Dynamic bernoulli embeddings for language evolution. arXiv preprint arXiv:1703.08052. <a href = "https://arxiv.org/pdf/1703.08052.pdf"> [paper] </a> <a href = 'https://www.notion.so/DBE-Dynamic-Bernoulli-Embeddings-for-Language-Evolution-48e27632ce054734a9c75f66551c6a58?pvs=4'> [paper_review] </a>
