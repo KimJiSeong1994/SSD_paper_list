@@ -1,6 +1,7 @@
 # Semantic Shift Detection(SSD, Dynamic Word Embedding) paper list
 ### Survey
 * Montanelli, S., & Periti, F. (2023). A Survey on Contextualised Semantic Shift Detection. arXiv preprint arXiv:2304.01666. <a href = 'https://arxiv.org/pdf/2304.01666.pdf'> [paper] </a>
+* Tahmasebi, N., Borin, L., & Jatowt, A. (2018). Survey of computational approaches to lexical semantic change. arXiv preprint arXiv:1811.06278. <a href = 'https://arxiv.org/pdf/1811.06278'> [paper] </a>
 
 ### Methodology 
 * Hamilton, W. L., Leskovec, J., & Jurafsky, D. (2016). Diachronic word embeddings reveal statistical laws of semantic change. arXiv preprint arXiv:1605.09096. <a href = 'https://arxiv.org/pdf/1605.09096.pdf'> [paper] </a>
@@ -18,5 +19,4 @@
 * Gong, H., Bhat, S., & Viswanath, P. (2020). Enriching word embeddings with temporal and spatial information. arXiv preprint arXiv:2010.00761. <a href = 'https://arxiv.org/pdf/2010.00761.pdf'> [paper] </a>
 
 * Hofmann, V., Pierrehumbert, J. B., & Schütze, H. (2020). Dynamic contextualized word embeddings. arXiv preprint arXiv:2010.12684. <a href = "https://arxiv.org/pdf/2010.12684v3.pdf"> [paper] </a> :: <a href = "https://www.notion.so/DCWE-Dynamic-Contextualized-Word-Embeddings-158d3dedd3a94f858b752d8a1e63419d?pvs=4"> [ paper_review ] </a>
-
 
