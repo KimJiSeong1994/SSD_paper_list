@@ -1,4 +1,5 @@
 # Semantic Shift Detection(SSD, Dynamic Word Embedding) paper list
+
 ### Survey
 * Montanelli, S., & Periti, F. (2023). A Survey on Contextualised Semantic Shift Detection. arXiv preprint arXiv:2304.01666. <a href = 'https://arxiv.org/pdf/2304.01666.pdf'> [paper] </a>
 * Tahmasebi, N., Borin, L., & Jatowt, A. (2018). Survey of computational approaches to lexical semantic change. arXiv preprint arXiv:1811.06278. <a href = 'https://arxiv.org/pdf/1811.06278'> [paper] </a>
